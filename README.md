@@ -1,2 +1,3 @@
 # parkinson-s-disease-prediction
-To predict weather the patient is healthy or diagnosed with parkinsons disease . 
+To predict whether the patient is healthy or diagnosed with parkinsons disease 
+. 
